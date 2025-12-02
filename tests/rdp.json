@@ -1,0 +1,26 @@
+[
+{
+"event.code": 4625,
+"source.ip": "10.10.20.50",
+"user.name": "testuser",
+"timestamp": "2024-12-02T10:00:00Z"
+},
+{
+"event.code": 4625,
+"source.ip": "10.10.20.50",
+"user.name": "testuser",
+"timestamp": "2024-12-02T10:00:10Z"
+},
+{
+"event.code": 4625,
+"source.ip": "10.10.20.50",
+"user.name": "testuser",
+"timestamp": "2024-12-02T10:00:20Z"
+},
+{
+"event.code": 4624,
+"source.ip": "10.10.20.50",
+"user.name": "testuser",
+"timestamp": "2024-12-02T10:01:00Z"
+}
+]

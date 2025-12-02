@@ -5,3 +5,4 @@ index: logs-windows.eventlogs*
 logic:
 fail_count: greater_than_3
 success: true
+  

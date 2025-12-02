@@ -1,0 +1,7 @@
+
+title: RDP brute force detection
+description: Detect repeated EventID 4625 followed by EventID 4624 within five minutes
+index: logs-windows.eventlogs*
+logic:
+fail_count: greater_than_3
+success: true
